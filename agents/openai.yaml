@@ -1,4 +1,4 @@
 interface:
   display_name: "강의 영상 → PPTX·PDF"
-  short_description: "영상의 원본 슬라이드와 필기를 보존하고 한국어 해설을 더해 PPTX·PDF로 정리"
-  default_prompt: "$lecture-video-to-slides 이 강의 영상의 원본 슬라이드와 필기를 살리고, 한국어 강의 해설과 영상 시각을 덧붙인 PPTX와 PDF를 만들어줘."
+  short_description: "원본 슬라이드·필기를 살리고 강의노트·예제 문제와 해설·보충 설명을 더한 PPTX·PDF 제작"
+  default_prompt: "$lecture-video-to-slides 이 강의 영상의 원본 슬라이드와 최종 필기를 보존하고, 한국어 강의노트·예제 문제와 해설·필요한 보충 설명을 담은 PPTX와 PDF를 만들어줘."
